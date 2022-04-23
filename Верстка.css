@@ -1,0 +1,127 @@
+		.menutext{
+			text-shadow: 5px; font-size: 2em;
+			font-family: Montserrat;
+		}
+		.menutextmt{
+			margin-left: 3%; padding-top: 0.5%; padding-bottom: 0.5%;
+			text-shadow: 5px;
+			font-family: Montserrat;
+		}
+		.menutextlogo{
+			margin-top: 3%;
+			text-shadow: 5px;
+			font: italic bold 3em Calibri;
+		}
+		.flagright{
+			background-color: #49DEFF; width: 125px; height: 40px;
+		}
+		.flag-1{
+			background-color: #49DEFF; width: 125px; height: 40px; margin-left: 2%; opacity: 70%;
+		}
+		.flag-2{
+			background-color: #FFE870; width: 125px; height: 40px; margin-left: 2%; opacity: 70%;
+		}
+		
+        .box{
+            background-color: #0D6573;
+            border-radius: 16px;
+            width: 50%;
+            margin-left: auto;
+            margin-right: auto;
+                    }
+        .boxtext1{
+        	text-shadow: 5px; font-size: 2em; color: #FFFFFF;
+        	font-family: Montserrat;
+        }
+        .boxtext{
+            text-shadow: 5px; font-size: 2em; color: #FFFFFF;
+            font-family: Montserrat;
+        }
+
+		.Head{
+			height: 60%;
+		}
+		.Filt{
+			background-color: rgba(53, 122, 152, 0.71);
+			color: white;
+			width: 15%;
+			height: 90%;
+			margin-left: 5%;
+			border: 2px solid #00D1FF;
+			border-radius: 16px;
+		}
+		.Block{
+			width: 280px;
+			height: 345px;
+			margin-left: 3%;
+			margin-top: 5%;
+			border-radius: 16px;
+			border: 2px solid #00D1FF;
+		}
+
+		.whiteblock{
+			width: 75%;
+			height: 60%;
+			margin-left: auto;
+			margin-right: auto;
+			margin-top: 5%;
+
+		}
+		.basket{
+		margin-left: 10%;
+		margin-top: 7px; 
+		}
+		.profile{
+			margin-left: 5%;
+			margin-top: 10px; 
+		}
+		.prof{
+			width: 70%;
+			height: 50%;
+			background-color: #FFE870;
+			border-radius: 16px;
+			margin-left: auto;
+			margin-right: auto;
+			margin-top: 5%;
+			margin-bottom: 5%;
+		}
+		.avatar{
+			margin-left: 3%;
+			margin-top: 3%;
+		}
+
+		.footer{
+            background-color: #FFE870;;
+            height:250px;
+            width: 100%;
+            display: flex;
+        }
+        .footerinfo1{
+            margin-right: 1100px;
+        }
+        .change{
+        	width: 15%;
+        	height: 5%;
+        	color: white;
+        	margin-top: 60%;
+        	margin-right: 5%;
+        }
+        .accept{
+        	width: 15%;
+        	height: 5%;
+        	color: white;
+        	margin-top:60%;
+        	margin-right: 10%;
+        }
+
+  		.text-in{
+            opacity: 0;
+            font-size: 0px;
+            color: white;
+            font-family: Montserrat;
+        }
+        .box:hover .text-in{
+            transition-duration: 0.5s;
+            font-size: 15px;
+            opacity: 1;
+        }

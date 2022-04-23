@@ -1,0 +1,36 @@
+.main{
+	height: 965px;
+	background-color: #5C93C6;
+	padding-top: 10%;
+}
+.info{
+	height: 60%;
+	width: 60%;
+	background-color: #FFE870;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+.flagright{
+			background-color: #49DEFF; width: 107.2px; height: 40px; margin-left: 20%;
+		}
+.flag-1{
+	background-color: #49DEFF; width: 107.2px; height: 40px; margin-left: 2%; opacity: 70%;
+		}
+.flag-2{
+	background-color: #FFE870; width: 107.2px; height: 40px; margin-left: 2%; opacity: 70%;
+}
+.flag-3{
+	background-color: #49DEFF; width: 40px;height: 107.2px; margin-top: 2%; opacity: 70%;
+}
+.flag-4{
+	background-color: #FFE870; width: 40px;height: 107.2px; margin-top: 2%; opacity: 70%;
+}
+
+.input{
+	padding-left: 1%;
+	background-color: #FFCF53;
+	border-radius: 16px;
+	border: 1px solid #00D1FF;
+	color:white; margin-left: 12%; margin-top: 5%
+}
